@@ -1,0 +1,7 @@
+C:\Users\eliar\Desktop\PIU-2022\proiect_arseni\bin\Debug\proiect_arseni.exe.config
+C:\Users\eliar\Desktop\PIU-2022\proiect_arseni\bin\Debug\proiect_arseni.exe
+C:\Users\eliar\Desktop\PIU-2022\proiect_arseni\bin\Debug\proiect_arseni.pdb
+C:\Users\eliar\Desktop\PIU-2022\proiect_arseni\obj\Debug\proiect_arseni.csprojAssemblyReference.cache
+C:\Users\eliar\Desktop\PIU-2022\proiect_arseni\obj\Debug\proiect_arseni.csproj.CoreCompileInputs.cache
+C:\Users\eliar\Desktop\PIU-2022\proiect_arseni\obj\Debug\proiect_arseni.exe
+C:\Users\eliar\Desktop\PIU-2022\proiect_arseni\obj\Debug\proiect_arseni.pdb
